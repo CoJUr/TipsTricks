@@ -1,2 +1,4 @@
-package com.example.tipstricks;public class PasswordService {
+package com.example.tipstricks;
+
+public class PasswordService {
 }
